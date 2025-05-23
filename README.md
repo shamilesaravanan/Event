@@ -1,5 +1,5 @@
 # django-college-event-management-system
-1.This is a event management system which can be used to organize events, scheduling events, participants registration, Winner announcements etc
+1.This is a event management system which can be used to organize events, scheduling events, participants registration, Winner announcements etc.
 2.Clone This Project git clone https://github.com/shamilesaravanan/Event.git
 3.Go to Project Directory cd django-college-event-management-system-main
 4.Create a Virtual Environment python3 -m venv env
